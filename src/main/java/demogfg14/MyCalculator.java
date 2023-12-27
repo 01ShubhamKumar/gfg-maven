@@ -14,7 +14,7 @@ public class MyCalculator {
 	        return a*b;
 	    }
 	    public void display() {
-	    	System.out.println("Hello");
+	    	System.out.println("Hello Guyss!");
 	    }
 	    public static void main(String[] args){
 	        MyCalculator cal=new MyCalculator();
