@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: ershu
+Build-Jdk: 17.0.5
+Main-Class: demogfg14.MyCalculator
+Created-By: Maven Integration for Eclipse
+
