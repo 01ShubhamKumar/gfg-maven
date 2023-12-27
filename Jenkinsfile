@@ -29,5 +29,10 @@ pipeline {
 				echo  'Build Success!'
 				}
 			}
+			stage ('Stage Final: Congrats Success'){
+			steps {
+				echo  ' Congrutalitions Build Success!'
+				}
+			}
 		}
 	}
