@@ -13,6 +13,9 @@ public class MyCalculator {
 	    public int mul(int a ,int b){
 	        return a*b;
 	    }
+	    public void display() {
+	    	System.out.println("Hello");
+	    }
 	    public static void main(String[] args){
 	        MyCalculator cal=new MyCalculator();
 	        System.out.println("sum is:"+cal.sum(20,10));
